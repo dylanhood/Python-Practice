@@ -1,5 +1,5 @@
 # Python-Practice
-Practice Pandas, scikit-learn, NumPy, NLP, Python programming exercises, coding math in Python, etc.
+Practice Pandas, scikit-learn, NumPy, NLP, seaborn, Python programming exercises, coding math in Python, etc.
 <br></br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,3 +24,8 @@ Practice Pandas, scikit-learn, NumPy, NLP, Python programming exercises, coding 
 <b>ajcr</b> - [GitHub Repository "100-pandas-puzzles"](https://github.com/ajcr/100-pandas-puzzles)
 
 <div>&nbsp;</div>
+
+<b>seaborn</b> - [seaborn Tutorial page](https://seaborn.pydata.org/tutorial.html)
+
+<div>&nbsp;</div>
+
